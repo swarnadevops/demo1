@@ -1,1 +1,2 @@
-This is to test coflict
+This is to test conflict
+This is file5 in remote repo
