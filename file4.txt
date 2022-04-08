@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-this is file4`
-=======
-This is file4 on branch1
->>>>>>> branch1
